@@ -1,6 +1,6 @@
-# PlacePing public pages
+# PinnedSpot public pages
 
-The public web pages for PlacePing, an iPhone app: a short description and the privacy policy.
+The public web pages for PinnedSpot, an iPhone app: a short description and the privacy policy.
 Served by GitHub Pages from the `main` branch. Plain static HTML, with no scripts, external fonts,
 cookies or trackers.
 
